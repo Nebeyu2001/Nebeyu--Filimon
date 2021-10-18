@@ -1,4 +1,5 @@
 # Nebeyu--Filimon
 procedural programming project
-This project is done by: Filimon Bihonegn & Nebeyu Zewdie.
-The project mainly based on array processing.
+This project is done 
+Filimon Bihonegn & Nebeyu Zewdie.
+This project is mainly based on array processing.
